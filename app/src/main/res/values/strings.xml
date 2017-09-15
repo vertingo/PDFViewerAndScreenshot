@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActivityRemotePDFScreenshot</string>
+    <string name="sharing_text">Your sharing text goes here…</string>
+    <string name="share_title">Share Screenshot</string>
+    <string name="screenshot_take_failed">Failed to take screenshot!!</string>
+    <string name="wait">Please wait…</string>
+    <string name="full_page_screenshot">Partager une capture d\'écran!</string>
+    <string name="hidden_text">Hidden Text</string>
+    <string name="custom_page_screenshot">Custom Page Screenshot</string>
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://vertin-go.com/TopSite/document/Emails_exemples.pdf</string>
+    <string name="remote_pdf_example">Aperçu de fichier PDF</string>
+    <string name="download">Afficher un aperçu de votre fichier pdf!</string>
+</resources>
