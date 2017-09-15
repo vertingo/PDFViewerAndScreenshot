@@ -19,13 +19,17 @@ Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 Au niveau programmation Java Android ajouter la ligne suivante dans votre build.gradle module : app 
 
+```
 compile 'es.voghdev.pdfviewpager:library:1.0.2' 
+```
 
-Ajouter également dans votre AndroidManifest 
+Ajouter également dans votre AndroidManifest: 
 
+```
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> 
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> 
 <uses-permission android:name="android.permission.INTERNET" /> 
+```
 
 Implémenter l'interface DownloadFile.Listener et View.OnClickListener dans l'activité RemotePDFActivity 
 
