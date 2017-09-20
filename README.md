@@ -12,13 +12,13 @@ Partager une capture d'écran via Gmail, SMS, Messenger etc...
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 
-<center>
+<p align="center">
 
   <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/Demo_App_TopSite.gif" width="500" height="350"/></a><br>
   
    <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp" target="_blank"><img alt="" src="http://www.mycompanyadmin.com/imagesrte/d548982/appstore-icon-mobile-retina.png" width="200" height="147" /></a>
  
-</center>
+</p>
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 Au niveau programmation Java Android ajouter la ligne suivante dans votre build.gradle module : app 
