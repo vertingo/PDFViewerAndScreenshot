@@ -12,9 +12,9 @@ Partager une capture d'écran via Gmail, SMS, Messenger etc...
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/Demo_App_TopSite.gif" width="500" height="350"/></a><br>
+ <center> <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/Demo_App_TopSite.gif" width="500" height="350"/></a></center><br>
   
-   <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp" target="_blank"><img alt="" src="http://www.mycompanyadmin.com/imagesrte/d548982/appstore-icon-mobile-retina.png" width="200" height="147" /></a>
+ <center>  <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp" target="_blank"><img alt="" src="http://www.mycompanyadmin.com/imagesrte/d548982/appstore-icon-mobile-retina.png" width="200" height="147" /></a></center>
  
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
