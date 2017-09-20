@@ -12,11 +12,9 @@ Partager une capture d'écran via Gmail, SMS, Messenger etc...
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 
- <p align="center"> <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/Demo_App_TopSite.gif" width="500" height="350"/></a></p>
+ <p align="center">  <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp" target="_blank"><img alt="" src="http://www.mycompanyadmin.com/imagesrte/d548982/appstore-icon-mobile-retina.png" width="200" height="147" /></a></p>
  
- <br>
-  
-  <p align="center">  <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp" target="_blank"><img alt="" src="http://www.mycompanyadmin.com/imagesrte/d548982/appstore-icon-mobile-retina.png" width="200" height="147" /></a></p>
+ <p align="center"> <a href="https://play.google.com/store/apps/details?id=com.vertin_go.topsiteapp&amp;rdid=com.vertin_go.topsiteapp"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/Demo_App_TopSite.gif" width="500" height="350"/></a></p>
  
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
