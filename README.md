@@ -1,6 +1,5 @@
-# 🌐 Authentication Example with Node.JS and MongoDB ![App Progress Status](http://vertin-go.com/TopSite/Icon/pub_cible.jpg?style=plastic)
+# 🌐 Regroupement des différents cours sur Android!
 
-Ci-dessous regroupement des différents cours sur Android:
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/AndroidStudioDiapo.pdf" target="_blank">PDF sur les bases d'Android Studio!</a>
 + <a href="https://github.com/vertingo/AndroidYouTubeDataApiV3" target="_blank">Intégration de YouTube Data API V3 dans une application Android!</a> 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/Pdf_MyListAdapter.pdf" target="_blank">Création d'un menu sous forme de liste adaptable en fonction de la taille des items afficher!</a> 
