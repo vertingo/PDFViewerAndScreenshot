@@ -2,12 +2,12 @@ Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 Charge et visualise l'url du fichier en cliquant sur Afficher un Aperçu de votre fichier PDF !
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/images/topsiteapp11.jpg" width="250" height="300"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/images/topsiteapp11.png" width="250" height="300"/></a>
 </p>
 Partager une capture d'écran via Gmail, SMS, Messenger etc...
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/images/topsiteapp12.jpg" width="250" height="300"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Notification/images/topsiteapp12.png" width="250" height="300"/></a>
 </p>
   
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
