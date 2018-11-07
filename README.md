@@ -1,8 +1,12 @@
+# 🌐 Authentication Example with Node.JS and MongoDB ![App Progress Status](http://vertin-go.com/TopSite/Icon/pub_cible.jpg?style=plastic)
+
 Ci-dessous regroupement des différents cours sur Android:
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/AndroidStudioDiapo.pdf" target="_blank">PDF sur les bases d'Android Studio!</a>
 + <a href="https://github.com/vertingo/AndroidYouTubeDataApiV3" target="_blank">Intégration de YouTube Data API V3 dans une application Android!</a> 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/Pdf_MyListAdapter.pdf" target="_blank">Création d'un menu sous forme de liste adaptable en fonction de la taille des items afficher!</a> 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/DeploiementEtApk.pdf" target="_blank">Comment générer et deployer un fichier APK signé sur Android Studio!</a>
+
+# 🌐 Système de visualisation de PDF + Capture d'écran![App Progress Status](https://img.shields.io/badge/Status-Finished-0520b7.svg?style=plastic)
 
 Système de capture d'écran + Visualisation d'un fichier PDF(Android)
 Charge et visualise l'url du fichier en cliquant sur Afficher un Aperçu de votre fichier PDF !
